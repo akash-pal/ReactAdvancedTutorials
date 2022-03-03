@@ -1,0 +1,37 @@
+{
+  "name": "react-advanced-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@testing-library/jest-dom": "5.11.6",
+    "@testing-library/react": "11.2.2",
+    "msw": "0.24.3",
+    "prop-types": "15.7.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-redux": "7.2.3",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.3",
+    "redux": "4.0.5",
+    "redux-logger": "3.0.6",
+    "redux-saga": "1.1.3",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
